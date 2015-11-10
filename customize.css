@@ -4,11 +4,9 @@ body {
     color: red;
     
     background-image: url("http://static5.businessinsider.com/image/547895f6ecad041e359bd36a/the-first-star-wars-episode-vii-trailer-is-here.jpg");
+    background-image:url('../images/bg.png');
     background-repeat:no-repeat;
-    -webkit-background-size:cover;
-    -moz-background-size:cover;
-    -o-background-size:cover;
-    background-size:cover;
+    background-size:contain;
     background-position:center;
 }
 
