@@ -2,4 +2,8 @@ body {
     font: arial;
     font-size: 14px;
     color: red;
+
+    background-image: url("http://www.shareably.net/wp-content/uploads/2015/01/unique_cat_fur_1.jpg");
+    background-color: #cccccc;
+}
 }
